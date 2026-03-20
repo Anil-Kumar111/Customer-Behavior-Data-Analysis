@@ -23,11 +23,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 ## 🛠️ How to Use This Project
 
 1. **Clone the repository**
- 
+   ```bash
    git clone https://github.com/Anil-Kumar111/Customer-Behavior-Data-Analysis.git
    cd Customer-Behavior-Data-Analysis
-
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+   ```
+3. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
 
     This file contains:
 
@@ -39,7 +39,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Connection to SQL Database
   
-3. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
+4. **Load the data from Python notebook into MySQL/PostgreSQL/MS SQL Server**
 
       - Create a database in SQL
 
@@ -49,13 +49,13 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
   
       - Answer Business Questions using SQL Queries 
       
-4. **Connect the SQL Database to Power BI**
+5. **Connect the SQL Database to Power BI**
 
       - Open **customer_behavior_dashboard.pbix**
    
       - Create interactive dashboard in Power BI
   
-5. **Create Project Report and Presentation**
+6. **Create Project Report and Presentation**
 
       - Create project report
    
